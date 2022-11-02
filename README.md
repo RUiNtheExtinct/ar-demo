@@ -36,6 +36,10 @@
 -   It brings the power of BabylonJS to React Native.
 -   Babylon React Native is a cross-platform framework that supports both iOS and Android.
 -   **The base BabylonJS package has support for XR built into it so for implementing AR, you don't need to install any additional packages.**
+-   ```
+    npx react-native init <YOUR_PROJECT_NAME> --template react-native-template-typescript
+    yarn add @babylonjs/react-native @babylonjs/core @babylonjs/loaders
+    ```
 -   Advantages:
     -   Supports both 2D and 3D
     -   Supports both iOS and Android
