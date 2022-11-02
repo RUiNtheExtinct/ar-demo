@@ -89,6 +89,7 @@
 -   [WebXR Extension for react-three-fiber](https://github.com/pmndrs/react-xr)
 -   Advantages:
     -   Easy to use
+    -   Has huge community support and number of helpful extensions
     -   Supports both 2D and 3D
     -   Supports both iOS and Android
     -   Supports both WebGL and Canvas
@@ -96,6 +97,7 @@
 -   Disadvantages:
     -   No support for ARCore in Android
 -   [Documentation](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+-   [Drei (Installation and Use Cases)](https://github.com/pmndrs/drei)
 -   Examples
     -   [Samples](https://codesandbox.io/examples/package/@react-three/xr)
 
