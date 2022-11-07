@@ -95,7 +95,7 @@
     -   Easy to use
     -   Has huge community support and number of helpful extensions
     -   Supports both 2D and 3D
-    -   Supports both iOS and Android
+    -   Supports iOS
     -   Supports both WebGL and Canvas
     -   Supports both Expo and React Native CLI
 -   Disadvantages:
@@ -134,6 +134,7 @@
     -   Easy to use
     -   Supports both 2D and 3D
     -   Supports both WebGL and Canvas
+    -	Supports iOS
     -   Supports both Expo and React Native CLI
 -   Disadvantages:
     -   Limited to Expo
